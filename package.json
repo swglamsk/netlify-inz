@@ -9,7 +9,6 @@
     "axios": "^0.21.1",
     "bootstrap": "^4.5.3",
     "date-and-time": "^0.14.2",
-    "fomantic-ui": "^2.8.7",
     "fontsource-roboto": "^4.0.0",
     "gatsby": "^2.26.1",
     "gatsby-image": "^2.8.0",
